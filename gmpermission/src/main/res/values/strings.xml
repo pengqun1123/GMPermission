@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GMPermission</string>
+    <string name="resume">允许</string>
+    <string name="cancel">拒绝</string>
+    <string name="error_gif">gif图出错</string>
+    <string name="get_img_tip">app选择图片需要该权限，请同意！</string>
+</resources>

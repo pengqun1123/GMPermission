@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/user_add_bg_color"
+          android:state_enabled="false"/>
+    <item android:color="@color/pinkColor"/>
+</selector>

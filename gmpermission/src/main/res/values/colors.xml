@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EC7FFC</color>
+    <color name="colorPrimaryDark">#BE2AD4</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="middlePurple">#DA1AF7</color>
+    <color name="middlePurpleAphla">#80DA1AF7</color>
+    <color name="middlePurpleAphla65">#4FDA1AF7</color>
+    <color name="deepPurple">#DD29E5</color>
+    <color name="mPurple">#DC7FFC</color>
+    <color name="lavender">#EDA1FB</color>
+    <color name="deepPurpleAlpha">#9BED29E5</color>
+    <color name="light_orange">#FFB302</color>
+    <color name="user_add_bg_color">#FF69B6</color>
+    <!--少女粉-->
+    <color name="pinkColor">#FA7199</color>
+    <color name="black_color_333333">#272822</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_grey">#e6e6e6</color>
+    <color name="toast_bg_color">#E0616161</color>
+    <color name="refresh_bg_color">#444444</color>
+    <color name="black_alpha_color">#33919191</color>
+
+    <color name="green">#40c60a</color>
+    <color name="green_dark">#298409</color>
+    <color name="tint_green">#1DF5BE</color>
+    <color name="tint_cyan">#9D6BECFF</color>
+    <color name="purple_70_alpha">#7DD499FD</color>
+    <color name="tint_green_50alpha">#2A78F9D8</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#9F000000</color>
+    <color name="white_gray">#E6E6E6</color>
+    <color name="common_text">#505050</color>
+    <color name="common_text_alpha">#7D777777</color>
+    <color name="common_line">#eaeaea</color>
+    <color name="grey">#EDEEED</color>
+    <color name="common_bg_press">#a1a1a1</color>
+    <color name="gray">#ababaa</color>
+    <color name="black_cd">#FFCDCDCD</color>
+    <color name="black_dd">#FFDDDDDD</color>
+    <color name="white_50">#66FFFFFF</color>
+    <color name="apply_textcolor">#ff754b</color>
+    <color name="red">#FFE63946</color>
+
+</resources>
